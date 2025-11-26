@@ -1,0 +1,9 @@
+apache-airflow
+apache-airflow-providers-google
+pandas
+sqlalchemy
+psycopg2-binary
+eralchemy
+graphviz
+faker
+matplotlib
